@@ -1,4 +1,38 @@
-### Hi there 👋
+# Hi there! 👋
+
+Welcome to my GitHub profile! I'm Yu-Chueh Wang, a passionate Pythonista based in sunny California. I love exploring new technologies, building projects, and sharing my knowledge with the community.
+
+## 🔭 Current Projects
+
+- [DigitsSolver](https://github.com/yuchuehw/DigitsSolver): A Python program that solves NYT's game Digits.
+- [Coming Soon](#): Stay tuned for updates on my upcoming projects!
+- [Coming Soon](#): More exciting projects are in the pipeline!
+
+## 🌱 Interests
+
+I'm currently focused on improving my skills in Python and object-oriented programming. Some of my key interests include:
+
+- Algorithm and Data Structure
+- Machine Learning and AI
+- Web Development and Tools
+
+## 📫 How to Reach Me
+
+- Email: yuchuehw@outlook.com
+
+## 💬 Ask Me About
+
+If you have any questions or need assistance with the following topics, feel free to reach out:
+
+- Python OOP design
+- Web Development (Backend)
+- Learning to Code
+
+## ⚡ Fun Fact
+
+I have a deep passion for chess and statistics. I'm always open to collaborations and project suggestions!
+
+Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or just want to say hi. Happy coding!
 
 <!--
 **yuchuehw/yuchuehw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
