@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm Yu-Chueh Wang, a passionate Pythonista based i
 
 ## 🔭 Current Projects
 
-- [DigitsSolver](https://github.com/yuchuehw/DigitsSolver): A Python program that solves NYT's game Digits.
-- [Coming Soon](#): Stay tuned for updates on my upcoming projects!
+- [Digits Solver](https://github.com/yuchuehw/DigitsSolver): A Python program that solves NYT's game Digits.
+- [Digits Battle](https://yuchuehw.github.io/digitsbattle/): Play digits live with your friend with Digits Battle!
 - [Coming Soon](#): More exciting projects are in the pipeline!
 
 ## 🌱 Interests
