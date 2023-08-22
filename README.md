@@ -2,10 +2,11 @@
 
 Welcome to my GitHub profile! I'm Yu-Chueh Wang, a passionate Pythonista based in sunny California. I love exploring new technologies, building projects, and sharing my knowledge with the community.
 
-## 🔭 Current Projects
-
+## 🚀Past Projects
 - [Digits Solver](https://github.com/yuchuehw/DigitsSolver): A Python program that solves NYT's game Digits.
 - [Digits Battle](https://yuchuehw.github.io/digitsbattle/): Play digits live with your friend with Digits Battle!
+
+## 🔭 Current Projects
 - [Fantasy Volleyball](https://fantasyvball.github.io): Compete with player around the world! Show off your volleyball knowledge.
 - [Battleship Companion](#): Comming soon!
   
