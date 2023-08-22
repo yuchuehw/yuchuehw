@@ -25,7 +25,7 @@ I'm currently focused on improving my skills in Python and object-oriented progr
 If you have any questions or need assistance with the following topics, feel free to reach out:
 
 - Python OOP design
-- Web Development (Backend)
+- Web Development
 - Learning to Code
 
 ## ⚡ Fun Fact
